@@ -179,8 +179,10 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## STM 32 CUBE PROGRAM :
-``` NAME:SASIRAJKUMAR T J
-    REG:212222230137
+``` 
+NAME:SASIRAJKUMAR T J
+REG:212222230137
+```
 ```
 #include "main.h"
 #include <stdbool.h>
